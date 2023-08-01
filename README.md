@@ -1,4 +1,4 @@
-### Olá pessoa! 👋
+### Olá Pessoa! 👋
 
 Algumas coisas sobre mim:
 
