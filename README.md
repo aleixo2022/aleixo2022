@@ -1,6 +1,6 @@
-### Hi there 👋
+### Olá pessoa! 👋
 
-Here are some ideas to get you started:
+Algumas coisas sobre mim:
 
 - 🔭 Estou trabalhando atualmente com Python, Power Bi e manutenção em Sistemas Laravel ...
 - 🌱 Estou estudando Python, TensorFlow e Ciência de dados...
