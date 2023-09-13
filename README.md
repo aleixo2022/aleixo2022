@@ -16,4 +16,3 @@ Algumas coisas sobre mim:
 
 
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleixo2022)](https://github.com/anuraghazra/github-readme-stats)
