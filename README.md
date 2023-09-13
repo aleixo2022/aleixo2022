@@ -8,4 +8,8 @@ Algumas coisas sobre mim:
 
 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aleixo2022&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ![aleixo2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=aleixo2022&show_icons=true&theme=radical)
