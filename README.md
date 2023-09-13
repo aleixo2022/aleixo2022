@@ -13,3 +13,7 @@ Algumas coisas sobre mim:
 
 
 ![aleixo2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=aleixo2022&show_icons=true&theme=radical)
+
+
+
+[![aleixo2022 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aleixo2022)](https://github.com/anuraghazra/github-readme-stats)
