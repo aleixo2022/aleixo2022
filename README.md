@@ -7,4 +7,5 @@ Algumas coisas sobre mim:
 - 👯 Estou procurando colaborar em projetos de ciência de dados ...
 
 
-[![Alex GitHub stats](https://github-readme-stats.vercel.app/api?username=aleixo2022)](https://github.com/anuraghazra/github-readme-stats)
+
+![aleixo2022 GitHub stats](https://github-readme-stats.vercel.app/api?username=aleixo2022&show_icons=true&theme=radical)
